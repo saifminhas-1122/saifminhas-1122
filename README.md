@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Muhammad Saif 👋
 
-<!--
-**saifminhas-1122/saifminhas-1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Development Executive | Revenue Growth | Sales Funnels**
 
-Here are some ideas to get you started:
+I turn opportunities into real revenue through strategic lead generation and optimized sales funnels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What I Do
+
+- Lead generation & client acquisition
+- Sales funnel design & optimization
+- Revenue growth strategy
+- Bridging technical teams with business goals
+
+---
+
+## 🛠️ Tools I Use
+
+**Business:** CRM | Sales Funnel Platforms | Analytics | Google Workspace
+
+**Technical:** Flutter | Firebase | Dart | REST APIs
+
+**Marketing:** E-Commerce | Digital Growth | Customer Behavior Analysis
+
+---
+
+## 💼 Currently Working On
+
+Building scalable sales systems and lead generation frameworks that convert prospects into long-term clients.
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: [Connect](https://www.linkedin.com/in/muhammad-saif-601820258/)
+
+🌐 Portfolio: [My Work](https://yourportfolio.com)
+
+---
+
+**Building businesses that grow.** 🚀
